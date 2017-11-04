@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 >
 >
 >
 >
 >
 I am editing this. Wheeeeee!
+=======
+I am editing this. Wheeeeee!
+
+
+Why does he talk about pets so much??
+>>>>>>> wacky_experiment
